@@ -10,7 +10,7 @@
        data-aos="fade-up"
        data-aos-delay="150"
        >
-    <h1 class="text-4xl font-extrabold text-indigo-700 mb-8 text-center">Book an Appointment</h1>
+    <h1 class="text-4xl font-extrabold text-indigo-700 mb-8 text-center">Let's discuss your needs </h1>
     
     <form action="/codeastra/appointment-submit" method="post" class="space-y-6">
       

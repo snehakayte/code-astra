@@ -10,7 +10,7 @@
        data-aos="fade-up"
        data-aos-delay="100"
        >
-    <h1 class="text-4xl font-extrabold text-indigo-700 mb-8 text-center">Get in Touch</h1>
+    <h1 class="text-4xl font-extrabold text-indigo-700 mb-8 text-center">Let's discuss your needs</h1>
     
     <form action="/codeastra/contact-submit" method="post" class="space-y-6">
       
@@ -48,7 +48,7 @@
         <label for="message"  class="absolute text-sm text-gray-500 duration-300 transform -translate-y-6 scale-75 top-3 -z-10 origin-[0]
                   peer-focus:left-0 peer-focus:text-indigo-600 peer-focus:scale-75 peer-focus:-translate-y-6
                   peer-placeholder-shown:scale-100 peer-placeholder-shown:translate-y-2 peer-placeholder-shown:text-gray-400">
-          Your Message
+          Kindly describe your request.
         </label>
       </div>
       

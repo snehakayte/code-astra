@@ -78,16 +78,16 @@
         Services
         <span class="absolute left-0 -bottom-1 w-full h-0.5 bg-indigo-600 scale-x-0 group-hover:scale-x-100 transition-transform origin-left <c:if test='${page eq "services"}'> scale-x-100 </c:if>"></span>
       </a>
-      <a href="${context}/appointment" 
+     <!-- <a href="${context}/appointment"
          class="relative group px-2 py-1 rounded focus:outline-none focus:ring-2 focus:ring-indigo-600
          <c:if test='${page eq "appointment"}'> text-indigo-800 font-bold </c:if> hover:text-indigo-700 transition-colors duration-200">
         Book
         <span class="absolute left-0 -bottom-1 w-full h-0.5 bg-indigo-600 scale-x-0 group-hover:scale-x-100 transition-transform origin-left <c:if test='${page eq "appointment"}'> scale-x-100 </c:if>"></span>
-      </a>
+      </a> -->
       <a href="${context}/contact" 
          class="relative group px-2 py-1 rounded focus:outline-none focus:ring-2 focus:ring-indigo-600
          <c:if test='${page eq "contact"}'> text-indigo-800 font-bold </c:if> hover:text-indigo-700 transition-colors duration-200">
-        Contact
+        Contact us
         <span class="absolute left-0 -bottom-1 w-full h-0.5 bg-indigo-600 scale-x-0 group-hover:scale-x-100 transition-transform origin-left <c:if test='${page eq "contact"}'> scale-x-100 </c:if>"></span>
       </a>
     </nav>
