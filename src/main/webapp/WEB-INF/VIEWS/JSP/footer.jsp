@@ -1,13 +1,11 @@
 <!-- Footer -->
-<footer class="bg-gray-900 text-white py-12 mt-16">
+<footer class="bg-gray-900 text-white py-6 mt-16">
   <div class="max-w-6xl mx-auto px-4 grid grid-cols-1 md:grid-cols-3 gap-12">
 
     <!-- Brand Info -->
     <div>
       <h4 class="text-2xl font-bold mb-3">Code Astra Solutions</h4>
-     <p class="text-gray-400">
-  Agile freelance experts crafting cutting-edge backend architectures with Java, event-driven Kafka streams, and cloud-native Kubernetes orchestration. Committed to scalable, secure, and high-performance solutions that accelerate digital transformation.
-</p>
+
 
     </div>
 
@@ -17,7 +15,7 @@
       <ul class="space-y-2 text-gray-300">
         <li>
           <span>Email:</span>
-          <a href="mailto:Snehamathankar@codeastrasolutions.com" class="text-indigo-400 hover:underline ml-1">Snehamathankar@codeastrasolutions.com</a>
+          <a href="mailto:snehamathankar@codeastrasolutions.com" class="text-indigo-400 hover:underline ml-1">Snehamathankar@codeastrasolutions.com</a>
         </li>
         <li>
           <span>WhatsApp:</span>
@@ -47,7 +45,7 @@
 
   </div>
 
-  <p class="text-center text-sm text-gray-500 mt-10">© 2025 <span class="font-semibold text-white">CodeAstra</span>. All rights reserved.</p>
+  <p class="text-center text-sm text-gray-500 mt-10">ï¿½ 2025 <span class="font-semibold text-white">CodeAstra</span>. All rights reserved.</p>
 </footer>
 
 <!-- Lucide Icons CDN -->
