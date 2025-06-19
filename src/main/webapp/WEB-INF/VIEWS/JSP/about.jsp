@@ -29,7 +29,7 @@
 
 <!-- Member Profiles -->
 <section class="py-12 bg-gray-50 px-6">
-  <h2 class="text-3xl font-bold text-center mb-12 text-indigo-700">Meet the Team</h2>
+  <h2 class="text-3xl font-bold text-center mb-12 text-indigo-700">Meet the Founder</h2>
   <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-12 max-w-6xl mx-auto">
 
     <!-- Sneha -->
@@ -38,40 +38,9 @@
       <h3 class="text-2xl font-semibold mb-1 text-indigo-800">Sneha Abhishek Mathankar</h3>
       <p class="text-gray-600 font-medium mb-3">Senior Java Developer | 8+ Years Experience</p>
       <p class="text-gray-500 text-sm leading-relaxed">
-        Master of scalable cloud-native solutions using Spring Boot, Reactive Programming, Microservices architecture, Docker, Kubernetes, Kafka, and advanced CI/CD pipelines.
+        Master of scalable cloud-native solutions using Spring Boot, Microservices architecture, Docker, Kubernetes, Kafka, and advanced CI/CD pipelines.
       </p>
     </div>
-
-    <!-- Roshan -->
-    <div class="bg-white rounded-2xl shadow-lg p-8 text-center hover:scale-105 transform transition duration-300 sm:col-span-2 lg:col-span-1">
-      <img src="assets/roshan.jpg" alt="Roshan Nandeshwar" class="w-32 h-32 mx-auto rounded-full mb-5 border-4 border-indigo-300 object-cover">
-      <h3 class="text-2xl font-semibold mb-1 text-indigo-800">Roshan Nandeshwar</h3>
-      <p class="text-gray-600 font-medium mb-3">Senior Backend Engineer | 7+ Years Experience</p>
-      <p class="text-gray-500 text-sm leading-relaxed">
-        Expert in microservices, event-driven architecture, cloud deployments (AWS/GCP), Docker, Kubernetes, and automation with Terraform and Jenkins.
-      </p>
-    </div>
-    
-    <!-- Pratik -->
-    <div class="bg-white rounded-2xl shadow-lg p-8 text-center hover:scale-105 transform transition duration-300">
-      <img src="assets/pratik.jpg" alt="Pratik Dilip Kayte" class="w-32 h-32 mx-auto rounded-full mb-5 border-4 border-indigo-300 object-cover">
-      <h3 class="text-2xl font-semibold mb-1 text-indigo-800">Pratik Dilip Kayte</h3>
-      <p class="text-gray-600 font-medium mb-3">Backend Developer | 2+ Years Experience</p>
-      <p class="text-gray-500 text-sm leading-relaxed">
-        Focused on robust backend systems with Java, Spring Boot, JPA/Hibernate, RESTful APIs, and fintech domain expertise with strong problem-solving skills.
-      </p>
-    </div>
-
-    <!-- Tushar -->
-    <div class="bg-white rounded-2xl shadow-lg p-8 text-center hover:scale-105 transform transition duration-300">
-      <img src="assets/tushar.jpg" alt="Tushar Bhojiram Mule" class="w-32 h-32 mx-auto rounded-full mb-5 border-4 border-indigo-300 object-cover">
-      <h3 class="text-2xl font-semibold mb-1 text-indigo-800">Tushar Bhojiram Mule</h3>
-      <p class="text-gray-600 font-medium mb-3">Full-Stack Developer | 2+ Years Experience</p>
-      <p class="text-gray-500 text-sm leading-relaxed">
-        Skilled in JavaScript frameworks, React, Node.js, along with Java Spring Boot backend development and Docker containerization.
-      </p>
-    </div>
-
 
   </div>
 </section>

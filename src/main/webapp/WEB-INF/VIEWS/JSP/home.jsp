@@ -170,7 +170,7 @@
   </h2>
   <a href="${context}/contact" 
      class="inline-block bg-yellow-400 text-indigo-900 font-bold px-12 py-4 rounded-full shadow-2xl hover:bg-yellow-500 hover:scale-105 transition transform duration-300 ease-in-out focus:outline-none focus:ring-4 focus:ring-yellow-300">
-    Contact Us Now
+    Get In Touch
   </a>
 </section>
 
